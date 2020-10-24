@@ -1,0 +1,8 @@
+{
+    "name": "New Issue To Discord",
+    "description": "Send new issue to discord",
+    "iconName": "icon-discord",
+    "categories": [
+        "Integrations"
+    ]
+}
